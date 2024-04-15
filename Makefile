@@ -1,0 +1,3 @@
+PROJECT_NAME=docker_cpp_example
+DOCKER_DEPS_VERSION=latest
+include build_tools/Makefile
